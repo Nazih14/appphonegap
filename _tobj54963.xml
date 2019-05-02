@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Test 1</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>0</numrandom>
+<passinggrade>70</passinggrade>
+<cancelfail>page55010.html</cancelfail>
+<passdone>page55009.html</passdone>
+<prevpage>page63868.html</prevpage>
+<gdocs>0</gdocs>
+<email>0</email>
+<page>
+<index>0</index>
+<name>page54985.html</name>
+<question>
+<id>55035</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda</name>
+<var>VarQuestion_0001</var>
+<text>Dibawah ini merupakan salah satu perubahan lingkungan yang diakibatkan oleh manusia yaitu . . .</text>
+<correctans>r0q5qDq2p5q1qEq7q1qEv0sCq9qDq2q1q8v0q9qEq4p5p3p4p2q9v0q4q9p0q5p2q1q9p2q1qEv0</correctans>
+<choices>Pembuangan Limbah industri diperairan |Akibat Gunung Meletus dan tanah longsor  |Penebangan hutan liar dan banjir|Peledakan ikan diperairan dan gunung meletus |Pembangunan pabrik di daerah perkotaan</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>page63373.html</name>
+<question>
+<id>63383</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 2</name>
+<var>VarQuestion_0002</var>
+<text>Pengertian pencemaran lingkungan yang paling tepat adalah . . .</text>
+<correctans>sDq1p3p5qBqEp9q1v0pAq1p4vCv0q5qEq5p2q7q9v0q4q1qEv0qDq1q8qCp5qBv0q8q9q4p5p0v0qBq5v0p0q5p2q1q9p2q1qEv0p9q1qEq7v0qDq5qEp9q5q2q1q2qBq1qEv0q2q5p2p5q2q1q8qEp9q1v0p4q1p4q1qEq1qEv0p0q5p2q1q9p2q1qEv0q1qBq9q2q1p4v0qBq5q7q9q1p4q1qEv0qDq1qEp5p3q9q1v0q1p4q1p5v0p0p2qFp3q5p3v0q1qCq1qDv0</correctans>
+<choices>Masuknya mahluk hidup, zat dan energi yang berasal dari kegiatan manusia ke perairan |Masuknya zat dan komponen lain ke perairan yang berasal dari industri sehingga tidak dapat digunakan |Masuknya zat, energi dan mahluk hidup ke perairan yang menyebabkan berubahnya tatanan perairan akibat kegiatan manusia atau proses alam |Masuknya mahluk hidup, zat dan energi serta komponen lainnya ke perairan sehingga tidak dapat digunakan|Masuknya zat, polutan kedalam suatu komponen ke udara bebas senggga tidak dapat digunakan.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>page63374.html</name>
+<question>
+<id>63396</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 3</name>
+<var>VarQuestion_0003</var>
+<text>Seringkali kita mendengar yang namanya proses hujan asam. Hujan asam bisa disebabkan dari SO2 dan NO2 yang dilepaskan di atmosfer dalam bentuk asap sebagai hasil dari kegiatan di pabrik.hujan asam merupakan dampak dari pencemaran  udara. Berbagai macam dampak yang terjadi disebabkan adanya peristiwa hujan asam. Dampak adanya peristiwa hujan tersebut kecuali…..</text>
+<correctans>s4q1p0q1p4v0qDq5qEp9p5q2p5p2qBq1qEv0p4q1qEq1qDq1qE</correctans>
+<choices>menurunnya produksi bahan pangan|barang-barang yang terbuat dari besi atau logam mudah berkarat|gedung-gedung atau jembatan bahkan bangunan candi akan cepat rusak.|Menimbulkan penyakit|Dapat menyuburkan tanaman</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>page63375.html</name>
+<question>
+<id>63409</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 4</name>
+<var>VarQuestion_0004</var>
+<text>Perhatikan gambar dibawah ini !\r\r\r\r\r\r\r\r\r\rLapisan Ozon merupakan lapisan yang menyelimuti bumi pada ketinggian 30 km diatas bumi, yang berfungsi untuk filter sinar ultra violet matahari.  Ozon adalah gas  beracun sehngga bila berada dekat permukaan tanah akan berbahaya bila terhisap dan dapat merusak paru-paru. Sebaliknya, lapisan ozon di atmosfer melindungi kehidupan di bumi karena ia melindungina dari radiasi sinar ultravilet yang dapat menyebabkan kanker.\rAdanya penipisan lapisan ozon yang dilukiskan dalam gambar disamping diakibatkan oleh…</text>
+<correctans>s1q4q1qEp9q1v0p0q5qEq7q7p5qEq1q1qEv0s3s6s3p3v0v8s3q8qCqFp2qFq6qCp5qFp2qFv0q3q1p2q2qFqEp3v9v0p3q5q2q1q7q1q9v0q7q1p3v0p0q5qEq4q9qEq7q9qEv0p0q1q4q1v0qCq5qDq1p2q9v0q5p3v0q4q1qEv0p2p5q1qEq7q1qEv0v8s1s3v9</correctans>
+<choices>Adanya penggunaan CFCs (Chlorofluoro carbons) sebagai gas pendingin pada lemari es dan ruangan (AC)|Gas penyemprot macam-macam kosmetik, dan penyem-prot rambut (hair spray).  |Adanya pemakaian kendaraan bermotor yang berlebihan|Adanya pemakaian bahan-bahan pencemar seperti detergen secara berlebihan |Kurangnya  kesadaran manusia akan pentingnya lingkungan</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>page63376.html</name>
+<question>
+<id>63424</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 5</name>
+<var>VarQuestion_0005</var>
+<text>Perhatikan grafik berikut \r  € Polusi Udara \r \r\r\r\r\r\r\r  € pengguna kendaraan bermotor </text>
+<correctans>r3q5qDq1qBq9qEv0v0qDq5qEq9qEq7qBq1p4v0v0qAp5qDqCq1q8v0v0p0q5qEq7q7p5qEq1v0qBq5qEq4q1p2q1q1qEv0v0q2q5p2qDqFp4qFp2v0v0qDq1qBq1v0v0p3q5qDq1qBq9qEv0qDq5qEq9qEq7qBq1p4v0qAp5qDqCq1q8v0p0qFqCp5p3q9v0p5q4q1p2q1</correctans>
+<choices>Semakin  meningkat  jumlah  pengguna kendaraan bermotor maka semakin rendah jumlah polusi udara |Semakin  meningkat  jumlah  polusi  udara karena  semakin  rendah  jumlah pengguna kendaraan bermotor |Semakin  meningkat  jumlah  pengguna kendaraan bermotor karena  semakin  rendah  jumlah polusi udara|Semakin  meningkat  jumlah  pengguna kendaraan  bermotor  maka  semakin meningkat jumlah polusi udara|Semakin menurun kendaraan bermotor, semakin menurun polusi udara</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>page63377.html</name>
+<question>
+<id>63439</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 6</name>
+<var>VarQuestion_0006</var>
+<text>Perhatikan gambar di bawah ini!\r\r\r\r\r\r\r\r\r\r\r\rGambar di atas menunjukkan terjadinya peristiwa hujan asam. Air hujan asam dapat menyebabkan populasi tumbuhan dan hewanakan mati sehingga dapat mengakibatkan menurunnya produksi bahanpangan, barang-barang yang terbuat dari besi atau logam mudah berkarat, gedung - gedung atau jembatan bahkan bangunan candi akan cepat rusak. Dari gambar di atas faktor-faktor yang menyebabkan terjadinya peristiwa hujan asam adalah . . .</text>
+<correctans>s1q4q1qEp9q1v0p4p5qDp0q1q8q1qEv0qDq9qEp9q1qBv0q4q9qCq1p5p4v0q4q1qCq1qDv0qBq1q4q1p2v0p9q1qEq7v0q2q5p2qCq5q2q9q8q1qE</correctans>
+<choices>Adanya tumpahan minyak dilaut dalam kadar yang berlebihan|Adanya polutan sulfur dioksida (SO2) yang dilepaskan dari proses penindustrian|Adanya penggunaan CO2 secara berlebihan|Nitrogen dioksida yang dilepaskan di atmosferdalam bentuk asap sebagai hasil dari kegiatan di pabrik|Semua jawaban benar</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>page63378.html</name>
+<question>
+<id>63454</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 7</name>
+<var>VarQuestion_0007</var>
+<text>Dari hasil observasi beberapa mahasiswa biologi dalam penelitian lingkungan hidup dikawasan perkotaan di dapat data sebagai berikut.\r\r1.	Sistem drainase kurang baik\r2.	Rumah-rumah penduduk padat\r3.	Pembuangan sampah di sembarang tempat\r4.	Jalanan dan pekarangan tidak terawat\r\rUsaha yang dapat dilakukan untuk memperbaiki lingkungan tersebut adalah…..</text>
+<correctans>sDq5qEq1p4q1v0qBq5qDq2q1qCq9v0qCq9qEq7qBp5qEq7q1qEv0p3q5q8q9qEq7q7q1v0qCq1p9q1qBv0q8p5qEq9</correctans>
+<choices>Menata kembali lingkungan sehingga layak huni|Memindahkan semua penduduk ke daerah lain|Melakukan pembakaran sampah|Mendirikan perumahan baru|Membuat jalan-jalan raya</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>page63379.html</name>
+<question>
+<id>63467</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 8</name>
+<var>VarQuestion_0008</var>
+<text>Limbah bahan berbahaya dan beracun (B3) adalah limbah mengandung bahan berbahaya atau beracun yang dapat merusak dan mencemari lingkungan bahkan dapat membahayakan kesehatan manusia. Limbah pada air termasuk kedalam kategori B3. Berikut ini yang merupakan limbah B3 adalah . . .</text>
+<correctans>s3q1p4vCv0r0qCq1p3p4q9q3vCv0p4q9qDq2q1qC</correctans>
+<choices>Cat, Batu Baterai Dan Kaleng |Timbal, Kaleng Dan Platik |Sisa Pemutih Dan Tepung Tapioka Kerupuk Udang |Plastik, Kaleng, Cat |Cat, Plastic, timbal</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>page63380.html</name>
+<question>
+<id>63480</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 9</name>
+<var>VarQuestion_0009</var>
+<text>Elang tiba-tiba mati setelah memakan ular, setelah diselidiki ternyata ular telah memakan ikan dan ikan telah memakan tumbuhan air, sedangkan tumbuhan air telah tercemari oleh DDT (dikhloro difenil triklroretana). Pada kasus ini mengakibatkan terjadinya . . .</text>
+<correctans>r0q5p2p5q2q1q8q1qEv0qCq9qEq7qBp5qEq7q1qEv0q1q9p2v0p9q1qEq7v0qDq5p2p5q7q9qBq1qEv0q5qBqFp3q9p3p4q5qDv0</correctans>
+<choices>Pencemaran bunyi |Perubahan kondisi air |Perubahan lingkungan air yang merugikan ekosistem |Perubahan penduduk |Perubahan makanan</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>page63381.html</name>
+<question>
+<id>63496</id>
+<type>2</type>
+<weight>10</weight>
+<name>Soal Pilihan Ganda 10</name>
+<var>VarQuestion_0010</var>
+<text>Pembangunan perumahan merupakan salah satu sebab semakin berkurangnya air tanah dan timbulnya banjir pada musim hujan. Hal tersebut disebabkan karena . . .</text>
+<correctans>r3q5qDq1qBq9qEv0q2q1qEp9q1qBv0p0q5p2p5qDq1q8q1qEv0p3q5qDq1qBq9qEv0p3q5q4q9qBq9p4v0q1q9p2v0p9q1qEq7v0p4q5p2p3q5p2q1p0v0p4q1qEq1q8v0</correctans>
+<choices>Semakin banyak perumahan semakin sedikit air yang terserap tanah |Semakin banyak perumahan semakin sedikit orang yang bercocok tanam |Semakin banyak perumahan semakin banyak sampah yang dibuang |Semakin banyak perumahan semakin banyak pembuangan limbah |Semakin banyak perumahan semakin sedikit lahan tanah </choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>

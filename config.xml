@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.ronald.hidayat.pencemaran.lingkungan"
+        version   = "1.1.1">
+
+    <name>Pencemaran Lingkungan</name>
+
+    <description>
+        Aplikasi ini berisi tentang Konsep Perubahan dan Pencemaran Lingkungan
+    </description>
+
+    <author href="http://hello-study.blogspot.com" email="ronaldmuhammad66@gmail.com">
+      Ronald
+    </author>
+
+
+    <preference name="permissions"                value="none"/>
+    <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
+    <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
+    <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
+   
+    <preference name="android-installLocation"    value="auto" />           
+    <plugin name="cordova-plugin-battery-status" />
+    <plugin name="cordova-plugin-camera" />
+    <plugin name="cordova-plugin-media-capture" />
+    <plugin name="cordova-plugin-console" />
+    <plugin name="cordova-plugin-contacts" />
+    <plugin name="cordova-plugin-device" />
+    <plugin name="cordova-plugin-device-motion" />
+    <plugin name="cordova-plugin-device-orientation" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-file" />
+    <plugin name="cordova-plugin-file-transfer" />
+    <plugin name="cordova-plugin-geolocation" />
+    <plugin name="cordova-plugin-globalization" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-media" />
+    <plugin name="cordova-plugin-network-information" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <plugin name="cordova-plugin-vibration" />
+
+    
+    <!-- Define app icon for each platform. -->
+    <icon src="icon.png" />
+	
+	
+
+<preference name="SplashScreenDelay" value="5000" />	
+<splash src="splash.png" />	
+<splash platform="android" qualifier="port-ldpi" src="res/drawable-port-ldpi/splash.png" />
+<splash platform="android" qualifier="port-mdpi" src="res/drawable-port-mdpi/splash.png" />
+<splash platform="android" qualifier="port-hdpi" src="res/drawable-port-hdpi/splash.png" />
+<splash platform="android" qualifier="port-xhdpi" src="res/drawable-port-xhdpi/splash.png" />
+ 
+<splash platform="android" qualifier="land-ldpi" src="res/drawable-land-ldpi/splash.png" />
+<splash platform="android" qualifier="land-mdpi" src="res/drawable-land-mdpi/splash.png" />
+<splash platform="android" qualifier="land-hdpi" src="res/drawable-land-hdpi/splash.png" />
+<splash platform="android" qualifier="land-xhdpi" src="res/drawable-land-xdpi/splash.png" />
+	
+
+    <access origin="*"/>
+    <plugin name="cordova-plugin-whitelist" version="1" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+
+</widget>
